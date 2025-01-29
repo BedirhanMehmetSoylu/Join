@@ -1,4 +1,5 @@
-const BASE_URL = "https://join-83911-default-rtdb.europe-west1.firebasedatabase.app/";
+// const BASE_URL = "https://join-83911-default-rtdb.europe-west1.firebasedatabase.app/";
+const BASE_URL = "https://join-6a843-default-rtdb.europe-west1.firebasedatabase.app/";
 let users = [];
 
 /**
